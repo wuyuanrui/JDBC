@@ -17,6 +17,7 @@ public static void main(String[] args) {
 			System.out.println(u.getUid()+" "+u.getUname()+" "+u.getUsex());
 		}
 		//对不起，我是一段测试的代码！
+		//我要上传
 		
 	}
 
